@@ -1,0 +1,6 @@
+
+ERROR: 0:5: 'uTime' : redefinition 
+ERROR: 0:15: 'vST' : undeclared identifier 
+ERROR: 0:15: 'assign' :  cannot convert from '2-component vector of float' to 'float'
+
+

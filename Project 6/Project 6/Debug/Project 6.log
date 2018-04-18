@@ -1,0 +1,42 @@
+﻿  Source.cpp
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(243): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(249): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(250): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(260): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(265): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(267): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(277): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(282): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(293): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(301): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(483): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(488): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(489): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(490): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(491): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(496): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(497): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(498): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(499): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(504): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(505): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(506): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(507): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(890): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(901): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(913): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(915): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(917): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(919): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(926): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(928): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(937): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(939): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(948): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(950): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(959): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(961): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 6\project 6\source.cpp(1411): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project 6.vcxproj -> C:\Users\Osprey6\OneDrive\Documents\Fall 2016\CS 550\Project 6\Debug\Project 6.exe
+  Project 6.vcxproj -> C:\Users\Osprey6\OneDrive\Documents\Fall 2016\CS 550\Project 6\Debug\Project 6.pdb (Partial PDB)

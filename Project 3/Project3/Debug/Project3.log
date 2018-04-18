@@ -1,0 +1,18 @@
+﻿  Source.cpp
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(278): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(279): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(280): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(284): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(285): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(296): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(298): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(302): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(442): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(568): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(574): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(583): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(590): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\rijua\box sync\courses\fall 2016\cs 550\project 3\project3\source.cpp(1327): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project3.vcxproj -> C:\Users\rijua\Box Sync\Courses\Fall 2016\CS 550\Project 3\Debug\Project3.exe

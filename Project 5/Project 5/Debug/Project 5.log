@@ -1,0 +1,7 @@
+﻿  Main.cpp
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 5\project 5\main.cpp(310): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 5\project 5\main.cpp(315): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 5\project 5\main.cpp(338): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 5\project 5\main.cpp(339): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project 5.vcxproj -> C:\Users\Osprey6\OneDrive\Documents\Fall 2016\CS 550\Project 5\Debug\Project 5.exe
+  Project 5.vcxproj -> C:\Users\Osprey6\OneDrive\Documents\Fall 2016\CS 550\Project 5\Debug\Project 5.pdb (Partial PDB)
