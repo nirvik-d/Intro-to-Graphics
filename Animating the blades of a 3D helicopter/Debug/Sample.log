@@ -1,0 +1,11 @@
+﻿  Sample.cpp
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\animating the blades of a 3d helicopter\sample.cpp(414): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\animating the blades of a 3d helicopter\sample.cpp(746): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\animating the blades of a 3d helicopter\sample.cpp(771): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\animating the blades of a 3d helicopter\sample.cpp(824): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\animating the blades of a 3d helicopter\sample.cpp(851): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\animating the blades of a 3d helicopter\sample.cpp(853): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\animating the blades of a 3d helicopter\sample.cpp(855): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\animating the blades of a 3d helicopter\sample.cpp(857): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\animating the blades of a 3d helicopter\sample.cpp(1203): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> C:\Users\rijua\Box Sync\Courses\Fall 2016\CS 550\Projects\Animating the blades of a 3D helicopter\Debug\Sample.exe

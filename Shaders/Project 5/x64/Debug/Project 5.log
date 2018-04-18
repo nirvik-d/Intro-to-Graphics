@@ -1,0 +1,8 @@
+﻿  glslprogram.cpp
+  Main.cpp
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\project 5\project 5\main.cpp(310): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\project 5\project 5\main.cpp(315): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\project 5\project 5\main.cpp(338): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rijua\box sync\courses\fall 2016\cs 550\projects\project 5\project 5\main.cpp(339): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Project 5.vcxproj -> C:\Users\rijua\Box Sync\Courses\Fall 2016\CS 550\Projects\Project 5\x64\Debug\Project 5.exe

@@ -1,0 +1,21 @@
+﻿  Sample.cpp
+Sample.cpp(736): warning C4305: 'initializing': truncation from 'double' to 'float'
+Sample.cpp(761): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Sample.cpp(814): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Sample.cpp(836): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Sample.cpp(842): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Sample.cpp(844): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Sample.cpp(846): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Sample.cpp(848): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Sample.cpp(864): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Sample.cpp(866): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Sample.cpp(868): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Sample.cpp(870): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+Sample.cpp(1227): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  10 of 30 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Sample.vcxproj -> C:\Users\Osprey6\Dropbox\Fall 2016\CS 550\Project 2\x64\Release\Sample.exe
+  Sample.vcxproj -> C:\Users\Osprey6\Dropbox\Fall 2016\CS 550\Project 2\x64\Release\Sample.pdb (Full PDB)

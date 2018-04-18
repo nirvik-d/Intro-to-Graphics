@@ -1,0 +1,12 @@
+﻿  Sample.cpp
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 2\sample.cpp(414): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 2\sample.cpp(746): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 2\sample.cpp(771): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 2\sample.cpp(824): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 2\sample.cpp(851): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 2\sample.cpp(853): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 2\sample.cpp(855): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 2\sample.cpp(857): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\osprey6\onedrive\documents\fall 2016\cs 550\project 2\sample.cpp(1203): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> C:\Users\Osprey6\OneDrive\Documents\Fall 2016\CS 550\Project 2\x64\Debug\Sample.exe
+  Sample.vcxproj -> C:\Users\Osprey6\OneDrive\Documents\Fall 2016\CS 550\Project 2\x64\Debug\Sample.pdb (Full PDB)
